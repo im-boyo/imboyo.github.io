@@ -22,9 +22,7 @@ author: Felix Testa Radovanovic
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Collège Montmorency: "https://www.cmontmorency.qc.ca/"
 
 ################
 # --- Logo --- #
